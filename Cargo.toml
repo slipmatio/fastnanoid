@@ -9,7 +9,7 @@ name = "fastnanoid"
 crate-type = ["cdylib"]
 
 [dependencies]
-pyo3 = "0.25.1"
+pyo3 = "0.29"
 rand = "0.8.5"
 
 [dev-dependencies]
